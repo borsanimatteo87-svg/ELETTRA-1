@@ -1,0 +1,4 @@
+streamlit
+fpdf
+pypdf
+streamlit-option-menu
